@@ -1,0 +1,173 @@
+
+.list-left{
+    text-align: left;
+   
+}
+.list-center{
+    text-align: center;
+}
+.list-right{
+    text-align: right;
+}
+.list-item{
+    display:inline-block;
+margin-right: 25px;
+}
+   
+.list-link{
+    color: red;
+}
+
+
+
+div{
+    font-family: 'Poppins', sans-serif;
+}
+.font-popins-100{  
+    font-weight: 100;
+}
+.font-popins-300{
+    font-weight: 300;
+}
+.font-popins-400{
+    font-weight: 400;
+}
+.font-popins-700{
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Akronim";
+    src: url("./Akronim.woff") format("woff");
+  }
+  .font-akronim-400{
+      font-family: "Akronim";
+      font-weight: 400;
+  }
+  .text-left{
+    background-color: rgb(100, 0, 0);
+    border-radius: 10px;
+    text-align: left;
+    color: oldlace;
+  }
+  .text-center{
+    margin-top: 25px;
+    background-color: rgb(100, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    color: oldlace;
+  }
+  .text-right{
+    margin-top: 25px;
+    background-color: rgb(100, 0, 0);
+    border-radius: 10px;
+    text-align: right;
+    color: oldlace;
+  }
+  .hover-link-red:hover{
+    color: red;
+  }
+   .hover-link-blue:hover{
+    color: blue;
+  }
+   .hover-link-green:hover{
+    color: green;
+  }
+  .hover-link-yellow:hover{
+    color: yellow;
+  }
+  .hover-link-grey:hover{
+    color: grey;
+  }
+  .hover-link{
+      color: black;
+  }
+.a{
+background-color: red;
+height: 50px;
+width: 50px;
+border-radius: 50px;
+display: inline-block;
+  }
+.b{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.c{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.d{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.e{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.f{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.g{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.h{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.i{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.j{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.k{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
+.l{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
+.m{
+    display: inline-block;
+}
